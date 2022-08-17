@@ -1,0 +1,7 @@
+# Project exclude paths
+/out/
+
+heaps/
+sort/
+favorite/
+string_matching_patterns/
